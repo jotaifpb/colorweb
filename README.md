@@ -1,2 +1,2 @@
-# https://jotaifpb.github.io/colorweb/
+# http://jotaifpb.github.io/colorweb/
 site cores
